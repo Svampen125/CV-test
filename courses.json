@@ -7,15 +7,14 @@
     "description": "Data structures, algorithms and Java programming.",
     "pdf": "https://your-domain.com/pdfs/1DV507.pdf",
     "categories": ["Java", "Programming"]
-  }
-
+  },
   {
     "name": "Programming and Data Structures 2",
     "code": "1DV506",
     "school": "Linnéuniversitetet",
     "hp": 7.5,
     "description": "Data structures, algorithms and Java programming.",
-    "pdf": "https://your-domain.com/pdfs/1DV507.pdf",
+    "pdf": "https://your-domain.com/pdfs/1DV506.pdf",
     "categories": ["Java", "Programming"]
   }
 ]
